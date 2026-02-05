@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...building app
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...google
-- 📫 How to reach me ...
+- 📫 How to reach me ...kavinwin7@gmail.com
 
 <!---
 kavinprasathwin/kavinprasathwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
